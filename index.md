@@ -1,0 +1,8 @@
+---
+layout: default
+title: Gobarski svet – gojenje, vrste in sveže gobe
+description: Nauči se gojiti užitne gobe doma, spoznaj vrste in preveri sezonsko ponudbo svežih gob.
+---
+<section class="hero"><div class="wrap hero-grid"><div><span class="badge">OD TROSA DO KROŽNIKA</span><h1>Gobe brez kompliciranja.</h1><p>Praktični vodiči za gojenje, pregled zanimivih vrst, priporočeni seti za začetnike in sezonska ponudba svežih gob.</p><div class="actions"><a class="btn primary" href="{{ '/growing/' | relative_url }}">Začni z gojenjem</a><a class="btn" href="{{ '/sveze-gobe/' | relative_url }}">Poglej sveže gobe</a></div></div><div class="hero-card"><div class="mushroom">🍄</div><strong>Začni preprosto</strong><p>Ostrigarji so odlična vstopna točka za prve domače pridelke.</p></div></div></section>
+<section class="wrap section"><p class="eyebrow">RAZIŠČI</p><h2>Vse, kar potrebuješ na enem mestu</h2><div class="cards"><a class="card" href="{{ '/vrste/' | relative_url }}"><span>🔎</span><h3>Vrste gob</h3><p>Okus, način gojenja in posebnosti posameznih vrst.</p></a><a class="card" href="{{ '/growing/' | relative_url }}"><span>🌱</span><h3>Vodniki za gojenje</h3><p>Od prvega grow kita do priprave lastnega substrata.</p></a><a class="card" href="{{ '/seti/' | relative_url }}"><span>📦</span><h3>Seti in oprema</h3><p>Izbor opreme in setov z jasno označenimi affiliate povezavami.</p></a></div></section>
+<section class="dark"><div class="wrap split"><div><p class="eyebrow light">SEZONSKA PONUDBA</p><h2>Sveže gobe, ko so zares sveže.</h2><p>Ponudba se bere neposredno iz JSON datoteke, zato jo lahko hitro posodobiš brez spreminjanja HTML strani.</p></div><a class="btn white" href="{{ '/sveze-gobe/' | relative_url }}">Preveri trenutno ponudbo →</a></div></section>

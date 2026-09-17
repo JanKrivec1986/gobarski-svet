@@ -1,0 +1,9 @@
+title: Gobarski svet
+description: Vodniki za gojenje gob, vrste, priporočeni seti in sezonska ponudba svežih gob.
+url: ""
+baseurl: ""
+lang: sl-SI
+permalink: /clanki/:title/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
