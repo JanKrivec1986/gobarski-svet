@@ -1,7 +1,7 @@
 title: Gobarski svet
 description: Vodniki za gojenje gob, vrste, priporočeni seti in sezonska ponudba svežih gob.
-url: ""
-baseurl: ""
+url: "https://jankrivec1986.github.io"
+baseurl: "/gobarski-svet"
 lang: sl-SI
 permalink: /clanki/:title/
 markdown: kramdown
